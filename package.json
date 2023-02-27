@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "ecommerce nodejs, typescript, mongoose, joi, unit test, docker and jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurssoni2456/ecommerce.git"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "Mayur Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayurssoni2456/ecommerce/issues"
+  },
+  "homepage": "https://github.com/mayurssoni2456/ecommerce#readme"
+}
