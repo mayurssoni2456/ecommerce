@@ -14,6 +14,11 @@ The main goal is to create an ecommerce platform which support features like reg
 10. Unit Tests (future)
 
 <br>
+
+# Project features
+
+<br>
+
 Following are the features of this project:
 * **This backend is written in Typescript**: The type safety at build time.
 * **Separation of concern principle**: Each component has been given a particular role. This makes the project easy to be unit tested.
