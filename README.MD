@@ -9,9 +9,8 @@ The main goal is to create an ecommerce platform which support features like reg
 5. Mongoose
 6. JWT
 7. Joi
-8. Docker
-9. Redis (Future)
-10. Unit Tests (future)
+8. Redis (Future)
+9. Unit Tests (future)
 
 <br>
 
